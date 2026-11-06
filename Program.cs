@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Biblioteca da INFNET - Versão 0.1");
         }
     }
 }
